@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gokulggopi2007/gokulggopi2007/main/images/ChatGPT%20Image%20Aug%201%2C%202026%2C%2011_06_47%20PM.png" alt="GOKUL G Banner" width="100%">
+  <img src="https://github.com/gokulggopi2007/gokulggopi2007/blob/main/images/ChatGPT%20Image%20Aug%201%2C%202026%2C%2011_06_47%20PM.png" alt="GOKUL G Banner" width="100%">
 </p>
 <h1 data-importer="text" align="center">Hey 👋 I'm Gokul G</h1>
 
