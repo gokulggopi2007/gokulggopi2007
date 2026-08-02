@@ -129,15 +129,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulggopi2007&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" /> Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gokulggopi2007/gokulggopi2007/blob/main/github/snake.yml">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/gokulggopi2007/gokulggopi2007/blob/main/github/snake.yml">
-    <img alt="github contribution grid snake animation" src="https://github.com/gokulggopi2007/gokulggopi2007/blob/main/github/snake.yml">
-  </picture>
-</p>
 
 <!-- Animated Footer Wave -->
 <p align="center">
