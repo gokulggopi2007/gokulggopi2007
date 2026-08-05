@@ -126,9 +126,6 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=gokulggopi2007&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=6&order=3" height="150" alt="streak graph" /> <br>
-  <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gokulggopi2007&theme=blue-green&hide_border=true" alt="GitHub Streak"/>
-</p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulggopi2007&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </div>
 
