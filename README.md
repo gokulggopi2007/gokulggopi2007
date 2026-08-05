@@ -123,6 +123,7 @@
 </div>
 
 ###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulggopi2007&" alt="gokulggopi2007" /></p>
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=gokulggopi2007&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=6&order=3" height="150" alt="streak graph" /> <br>
