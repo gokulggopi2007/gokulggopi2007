@@ -126,8 +126,6 @@
 
 <div data-importer="stats" align="center">
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=gokulggopi2007&theme=blue-green&hide_border=false&border_radius=6" alt="gokulggopi2007" /> <br>
-  <img src="https://raw.githubusercontent.com/gokulggopi2007/gokulggopi2007/activity-graph-output/activity-graph.svg?radius=13&theme=react&area=true&order=5" height="296" alt="activity-graph graph" /><br>
-  <img src="https://raw.githubusercontent.com/gokulggopi2007/gokulggopi2007/activity-graph-output/activity-graph.svg?radius=13&theme=react&area=true&order=5&bg_color=red" height="296" alt="activity-graph graph"  />
 </div>
 
 
