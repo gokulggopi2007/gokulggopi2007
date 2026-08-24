@@ -132,9 +132,9 @@
 
 <h2 data-importer="text" align="center">👨‍💻 Profile viewers</h2>
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=gokulggopi2007.gokulggopi2007&left_color=yellow&right_color=yellowgreen&left_text=profile%20view%20"  />
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=gokulggopi2007.gokulggopi2007&left_color=yellow&right_color=yellowgreen&left_text=profile%40view%40"  />
 </div>
-<h2 data-importer="text" align="center">📊 GitHub Stats</h2>
+<h2 data-importer="text" align="center">📊 GitHub Status</h2>
 
 <div data-importer="stats" align="center">
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=gokulggopi2007&theme=blue-green&hide_border=false&border_radius=6" alt="gokulggopi2007" /> <br>
