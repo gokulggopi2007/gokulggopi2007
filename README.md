@@ -151,13 +151,12 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
+<h2 data-importer="text" align="center">📈 Contribution Graph</h2>
 <div align="center">
-📈 Contribution Graph
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulggopi2007&theme=react-dark&hide_border=true&area=true" />
 
 </div>
-
+<h2 data-importer="text" align="center">"Building secure, intelligent and impactful software solutions for the future"</h2>
 <!-- Animated Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
