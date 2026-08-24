@@ -134,18 +134,19 @@
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=gokulggopi2007.gokulggopi2007&left_color=yellow&right_color=yellowgreen&left_text=profile%20view%20"  />
 </div>
-# 🐍 Contribution Snake
+
+
+<div data-importer="stats" align="center">
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=gokulggopi2007&theme=blue-green&hide_border=false&border_radius=6" alt="gokulggopi2007" /> <br>
+</div>
+
+🐍 Contribution Snake
 
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-###
-
-<div data-importer="stats" align="center">
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=gokulggopi2007&theme=blue-green&hide_border=false&border_radius=6" alt="gokulggopi2007" /> <br>
-</div>
 
 
 <!-- Animated Footer Wave -->
