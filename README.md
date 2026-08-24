@@ -108,29 +108,6 @@
 🌱 Continuously Improving Problem Solving Skills
 </h4>
 
-<h2 align="center">🎯 Current Focus</h2>
-<h4 align="center">
-Learning:
-  - React.js
-  - Java
-  - Networking and Operating System
-  - Ethical Hacking
-  - Cloud Computing
-
-Building:
-  - AI Powered Job Portal
-  - AssetFlow Platform
-
-Exploring:
-  - Artificial Intelligence
-  - Cyber Security Tools
-  - Open Source Projects
-
-Open To:
-  - Internships
-  - Collaborations
-  - Hackathons
-</h4>
 <h2 data-importer="text" align="center">🌐 Connect with me</h2>
 
 <div data-importer="socials" align="center">
@@ -155,8 +132,10 @@ Open To:
 </div>
 
 <h2 data-importer="text" align="center">👨‍💻 Profile viewers</h2>
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=gokulggopi2007.gokulggopi2007&left_color=yellow&right_color=yellowgreen&left_text=profile%40view%40"  />
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=gokulggopi2007&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </div>
 <h2 data-importer="text" align="center">📊 GitHub Status</h2>
 <div align="center">
