@@ -151,7 +151,12 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
+<div align="center">
+📈 Contribution Graph
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulggopi2007&theme=react-dark&hide_border=true&area=true" />
+
+</div>
 
 <!-- Animated Footer Wave -->
 <p align="center">
