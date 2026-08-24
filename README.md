@@ -134,6 +134,9 @@
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=gokulggopi2007.gokulggopi2007&left_color=yellow&right_color=yellowgreen&left_text=profile%20view%20"  />
 </div>
+📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=gokulggopi2007&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=gokulggopi2007cyber&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <div data-importer="stats" align="center">
