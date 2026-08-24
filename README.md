@@ -136,6 +136,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=gokulggopi2007&label=Profile%20Views&color=0e75b6&style=flat" />
 <img src="https://komarev.com/ghpvc/?username=gokulggopi2007&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" width="250"/>
+<img width="581" height="221" alt="image" src="https://github.com/user-attachments/assets/00dd0a13-615b-4430-8b8a-de34a133a91f" />
+
 </div>
 <h2 data-importer="text" align="center">📊 GitHub Status</h2>
 <div align="center">
