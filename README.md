@@ -133,18 +133,7 @@
 
 <h2 data-importer="text" align="center">👨‍💻 Profile viewers</h2>
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=gokulggopi2007&label=PROFILE%20VIEWS&color=229ED1&style=for-the-badge" width="250"/>
-<img src="https://komarev.com/ghpvc/?username=gokulggopi2007&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" width="250"/>
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=gokulggopi2007&label=PROFILE%20VIEWS&color=229ED1&style=for-the-badge" width="250"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/PROFILE- VIEWS-00E676?style=for-the-badge" />
-
-</div>
 </div>
 <h2 data-importer="text" align="center">📊 GitHub Status</h2>
 <div align="center">
