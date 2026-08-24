@@ -135,7 +135,7 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=gokulggopi2007&label=Profile%20Views&color=0e75b6&style=flat" />
-
+<img src="https://komarev.com/ghpvc/?username=gokulggopi2007&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" width="250"/>
 </div>
 <h2 data-importer="text" align="center">📊 GitHub Status</h2>
 <div align="center">
