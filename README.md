@@ -19,7 +19,7 @@
 
 ###
 
-<h6 data-importer="text" align="center">My name is Gokul G, and I'm a Computer Science student, Cybersecurity enthusiast, and Full Stack Developer from Tamil Nadu, India. I enjoy building innovative applications, solving programming challenges, and exploring AI and cybersecurity technologies.</h6>
+<h4 data-importer="text" align="center">My name is Gokul G, and I'm a Computer Science student, Cybersecurity enthusiast, and Full Stack Developer from Tamil Nadu, India. I enjoy building innovative applications, solving programming challenges, and exploring AI and cybersecurity technologies.</h4>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h6 data-importer="text" align="center">✨ Passionate about coding, cybersecurity, and continuous learning<br><br>📚 I'm currently learning Ethical Hacking, REST APIs, and MongoDB<br><br>🎯 Goals: Crack top tech interviews, contribute to Open Source, and become a Full Stack Security Developer<br><br>🎲 Fun fact: Coffee + Music + Coding = My perfect productivity combo ☕🎧💻</h6>
+<h4 data-importer="text" align="center">✨ Passionate about coding, cybersecurity, and continuous learning<br><br>📚 I'm currently learning Ethical Hacking, REST APIs, and MongoDB<br><br>🎯 Goals: Crack top tech interviews, contribute to Open Source, and become a Full Stack Security Developer<br><br>🎲 Fun fact: Coffee + Music + Coding = My perfect productivity combo ☕🎧💻</h4>
 
 ###
 <h2 data-importer="text" align="center">💻 Languages and Tools</h2>
@@ -100,13 +100,13 @@
 
 <h2 align="center">🏆 Achievements</h2>
 
-<div align="center">
+<h4 align="center">
 🥇 Solved <b>300+ LeetCode Problems</b><br><br>
 🚀 Participated in <b>Hackathons & Coding Contests</b><br><br>
 💻 Built <b>Full Stack & AI Projects</b><br><br>
 🔐 Learning <b>Cybersecurity & Ethical Hacking</b><br><br>
 🌱 Continuously Improving Problem Solving Skills
-</div>
+</h4>
 <h2 data-importer="text" align="center">🌐 Connect with me</h2>
 
 <div data-importer="socials" align="center">
@@ -140,8 +140,7 @@
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=gokulggopi2007&theme=blue-green&hide_border=false&border_radius=6" alt="gokulggopi2007" /> <br>
 </div>
 
-🐍 Contribution Snake
-
+<h2 data-importer="text" align="center">🐍 Contribution Snake</h2>
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
