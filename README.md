@@ -153,10 +153,19 @@
 
 </p>
 <h2 data-importer="text" align="center">📈 Contribution Graph</h2>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulggopi2007&theme=react-dark&hide_border=true&area=true" />
 
-</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulggopi2007&theme=github-compact&hide_border=true&area=true" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulggopi2007&theme=github-compact&hide_border=true&area=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulggopi2007&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulggopi2007&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 <h2 data-importer="text" align="center">"Building secure, intelligent and impactful software solutions for the future"</h2>
 <!-- Animated Footer Wave -->
 <p align="center">
