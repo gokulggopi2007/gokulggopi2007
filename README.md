@@ -1,11 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A5ACD,100:8A2BE2&height=250&section=header&text=GOKUL%20G&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Cyber+Security+Enthusiast;Full+Stack+Developer;AI+Explorer;Hackathon+Participant;Future+Cyber+Security+Engineer" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/B.E-CSE%20(Cyber%20Security)-6A5ACD?style=for-the-badge"/><br>
   <img src="https://img.shields.io/badge/Karpagam%20University-Coimbatore-4B0082?style=for-the-badge"/><br>
@@ -148,20 +146,9 @@
 
 <h2 data-importer="text" align="center">🐍 Contribution Snake</h2>
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-<h2 align="center">📊 GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulggopi2007&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulggopi2007&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulggopi2007&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 <h2 data-importer="text" align="center">"Building secure, intelligent and impactful software solutions for the future"</h2>
 <!-- Animated Footer Wave -->
 <p align="center">
