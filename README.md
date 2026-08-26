@@ -152,12 +152,8 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-<h2 data-importer="text" align="center">📈 Contribution Graph</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulggopi2007&theme=github-compact&hide_border=true&area=true" width="100%"/>
-</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulggopi2007&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </p>
