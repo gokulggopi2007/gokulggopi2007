@@ -1,9 +1,15 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A5ACD,100:8A2BE2&height=250&section=header&text=GOKUL%20G&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Cyber+Security+Enthusiast;Full+Stack+Developer;AI+Explorer;Hackathon+Participant;Future+Cyber+Security+Engineer" />
 </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/B.E-CSE%20(Cyber%20Security)-6A5ACD?style=for-the-badge"/><br>
   <img src="https://img.shields.io/badge/Karpagam%20University-Coimbatore-4B0082?style=for-the-badge"/><br>
