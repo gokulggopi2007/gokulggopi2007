@@ -13,6 +13,9 @@
 <p align="center">
   <img src="https://github.com/gokulggopi2007/gokulggopi2007/blob/main/images/ChatGPT%20Image%20Aug%201%2C%202026%2C%2011_06_47%20PM.png" alt="GOKUL G Banner" width="100%">
 </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 <h1 data-importer="text" align="center">Hey 👋 I'm Gokul G</h1>
 
 ###
@@ -128,22 +131,29 @@
   </a>
   <a href="https://github.com/gokulggopi2007" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=gokulggopi2007&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GOKUL G GitHub Trophies" />
+</p>
 <h2 data-importer="text" align="center">👨‍💻 Profile viewers</h2>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gokulggopi2007&label=PROFILE%20VIEWS&color=229ED1&style=for-the-badge" width="250"/>
 </div>
-<h2 data-importer="text" align="center">📊 GitHub Status</h2>
+<h2 align="center">📊 GitHub Stats:</h2>
+
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=gokulggopi2007&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<img height="169em" src="https://streak-stats.demolab.com/?user=gokulggopi2007&theme=radical&border=true&cache_seconds=86400" alt="gokulggopi2007's GitHub Streak">
+<img height="169em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gokulggopi2007&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+<img height="169em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gokulggopi2007&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="gokulggopi2007's GitHub Stats" />
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokulggopi2007&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gokulggopi2007&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokulggopi2007&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gokulggopi2007&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gokulgopi2007&theme=radical&utcOffset=8">
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gokulggopi2007&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
-<div data-importer="stats" align="center">
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=gokulggopi2007&theme=blue-green&hide_border=false&border_radius=6" alt="gokulggopi2007" /> <br>
-</div>
-
 <h2 data-importer="text" align="center">🐍 Contribution Snake</h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
