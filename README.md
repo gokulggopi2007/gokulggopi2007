@@ -92,9 +92,6 @@
 🌱 Continuously Improving Problem Solving Skills
 </h4>
 <h2 data-importer="text" align="center">🌐 Connect with me</h2>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 <div data-importer="socials" align="center">
   <a href="mailto:gokulggopi2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.leetcode.com/u/Gokul_G_2007/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Gokul_G_2007" height="37" width="44" /></a>
@@ -123,10 +120,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gokulggopi2007&label=PROFILE%20VIEWS&color=229ED1&style=for-the-badge" width="250"/>
 </div>
-<h2 align="center">📊 GitHub Stats:</h2>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
 <img height="169em" src="https://streak-stats.demolab.com/?user=gokulggopi2007&theme=radical&border=true&cache_seconds=86400" alt="gokulggopi2007's GitHub Streak">
 <img height="169em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gokulggopi2007&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
@@ -146,9 +140,6 @@
  <br>
   If you like what you see, don't forget to ⭐ star and follow 😊 
 </p>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 <h2 data-importer="text" align="center">"Building secure, intelligent and impactful software solutions for the future"</h2>
 <!-- Animated Footer Wave -->
 <p align="center">
