@@ -7,39 +7,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Cyber+Security+Enthusiast;Full+Stack+Developer;AI+Explorer;Hackathon+Participant;Future+Cyber+Security+Engineer" />
 </p>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 <p align="center">
   <img src="https://img.shields.io/badge/B.E-CSE%20(Cyber%20Security)-6A5ACD?style=for-the-badge"/><br>
   <img src="https://img.shields.io/badge/Karpagam%20University-Coimbatore-4B0082?style=for-the-badge"/><br>
   <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-8A2BE2?style=for-the-badge"/>
 </p>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 <p align="center">
   <img src="https://github.com/gokulggopi2007/gokulggopi2007/blob/main/images/ChatGPT%20Image%20Aug%201%2C%202026%2C%2011_06_47%20PM.png" alt="GOKUL G Banner" width="100%">
 </p>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 <h1 data-importer="text" align="center">Hey 👋 I'm Gokul G</h1>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 <h4 data-importer="text" align="center">My name is Gokul G, and I'm a Computer Science student, Cybersecurity enthusiast, and Full Stack Developer from Tamil Nadu, India. I enjoy building innovative applications, solving programming challenges, and exploring AI and cybersecurity technologies.</h4>
-
 <h2 data-importer="text" align="center"> 👨‍💻 About me</h2>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 <h4 data-importer="text" align="center">✨ Passionate about coding, cybersecurity, and continuous learning<br><br>📚 I'm currently learning Ethical Hacking, REST APIs, and MongoDB<br><br>🎯 Goals: Crack top tech interviews, contribute to Open Source, and become a Full Stack Security Developer<br><br>🎲 Fun fact: Coffee + Music + Coding = My perfect productivity combo ☕🎧💻</h4>
-
 <h2 data-importer="text" align="center">💻 Languages and Tools</h2>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -103,11 +83,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
 </div>
-
 <h2 align="center">🏆 Achievements</h2>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 <h4 align="center">
 🥇 Solved <b>300+ LeetCode Problems</b><br><br>
 🚀 Participated in <b>Hackathons & Coding Contests</b><br><br>
@@ -115,12 +91,10 @@
 🔐 Learning <b>Cybersecurity & Ethical Hacking</b><br><br>
 🌱 Continuously Improving Problem Solving Skills
 </h4>
-
 <h2 data-importer="text" align="center">🌐 Connect with me</h2>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
-
 <div data-importer="socials" align="center">
   <a href="mailto:gokulggopi2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.leetcode.com/u/Gokul_G_2007/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Gokul_G_2007" height="37" width="44" /></a>
@@ -142,16 +116,10 @@
   <a href="https://github.com/gokulggopi2007" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 <h2 align="center">🏆 GitHub Trophies</h2>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=gokulggopi2007&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GOKUL G GitHub Trophies" />
 </p>
 <h2 data-importer="text" align="center">👨‍💻 Profile viewers</h2>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gokulggopi2007&label=PROFILE%20VIEWS&color=229ED1&style=for-the-badge" width="250"/>
 </div>
@@ -160,7 +128,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 <div align="center">
-
 <img height="169em" src="https://streak-stats.demolab.com/?user=gokulggopi2007&theme=radical&border=true&cache_seconds=86400" alt="gokulggopi2007's GitHub Streak">
 <img height="169em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gokulggopi2007&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
 <img height="169em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gokulggopi2007&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="gokulggopi2007's GitHub Stats" />
@@ -169,12 +136,8 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokulggopi2007&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gokulggopi2007&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gokulggopi2007&theme=radical&utcOffset=5.5">
-
 </div>
 <h2 data-importer="text" align="center">🐍 Contribution Snake</h2>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
@@ -187,9 +150,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 <h2 data-importer="text" align="center">"Building secure, intelligent and impactful software solutions for the future"</h2>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 <!-- Animated Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
