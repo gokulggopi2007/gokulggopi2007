@@ -127,6 +127,12 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/gokulggopi2007?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Streak" />
 </p>
+## 🧩 LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Gokul_G_2007?theme=dark&font=Baloo&ext=heatmap" 
+       alt="Gokul_G_2007 LeetCode Stats" />
+</p>
 <h2 data-importer="text" align="center">👨‍💻 Profile viewers</h2>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gokulggopi2007&label=PROFILE%20VIEWS&color=229ED1&style=for-the-badge" width="250"/>
