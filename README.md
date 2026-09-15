@@ -116,6 +116,17 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=gokulggopi2007&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GOKUL G GitHub Trophies" />
 </p>
+## 🧩 LeetCode Statistics
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/gokulggopi2007?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+## 🔥 LeetCode Streak
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/gokulggopi2007?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Streak" />
+</p>
 <h2 data-importer="text" align="center">👨‍💻 Profile viewers</h2>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gokulggopi2007&label=PROFILE%20VIEWS&color=229ED1&style=for-the-badge" width="250"/>
