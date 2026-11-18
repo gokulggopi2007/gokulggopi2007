@@ -137,7 +137,11 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulggopi2007&layout=compact&langs_count=8&theme=radical"
   alt="Top Languages"
 />
-<img height="169em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gokulggopi2007&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="gokulggopi2007's GitHub Stats" />
+<img
+  height="169em"
+  src="https://github-stats-extended.vercel.app/api?username=gokulggopi2007&show_icons=true&theme=radical&border_radius=10"
+  alt="Gokul's GitHub Stats"
+/>
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokulggopi2007&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gokulggopi2007&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokulggopi2007&theme=radical">
