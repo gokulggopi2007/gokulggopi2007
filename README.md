@@ -131,7 +131,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
 
-<img height="169em" src="https://github-readme-streak-stats-eight.vercel.app/?user=gokulggopi2007&theme=radical" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=gokulggopi2007&theme=radical&hide_border=true" 
+     alt="GitHub Streak" 
+     height="169"/>
 <img
   height="169em"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulggopi2007&layout=compact&langs_count=8&theme=radical"
